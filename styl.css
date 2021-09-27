@@ -1,5 +1,15 @@
-main h1 {
+h2 {
     color: red;
-    background-color: blue;
-    font-size: 60px;
+}
+.main {
+    color: orange;
+}
+.hidden.closed {
+    color: yellow;
+}
+#latka {
+    color: green;
+}
+.content p {
+    color: pink;
 }

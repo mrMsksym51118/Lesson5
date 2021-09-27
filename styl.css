@@ -13,3 +13,9 @@ h2 {
 .content p {
     color: pink;
 }
+.totem>p {
+color: brown;
+}
+h1~p {
+    color: chartreuse;
+}
